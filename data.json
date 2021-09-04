@@ -2,25 +2,25 @@
     {
         "title":"เรือดำน้ำคืออะไร ?",
         "subtitle":"เรามาทราบประวัติของเรือดำน้ำ",
-        "image_url":"https://cdn.pixabay.com/photo/2013/07/30/15/07/submarine-168884_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/navywebmaster/SubmarineAPI/main/submarine-168884_960_720.jpg",
         "detail":""
     },
     {
         "title":"เรือดำน้ำมีกี่ประเภท ?",
         "subtitle":"การแบ่งประเภทของเรือดำน้ำในปัจจุบัน",
-        "image_url":"https://cdn.pixabay.com/photo/2019/02/15/21/09/u-boat-3999328_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/navywebmaster/SubmarineAPI/main/u-boat-3999328_960_720.jpg",
         "detail":""
     },
     {
         "title":"การตั้งชื่อเรือดำน้ำ",
         "subtitle":"เนื่องด้วยสภาพภูมิประเทศของบรรดาสมาชิกอาเซียน มีภูมิศาสตร์ติดกับทะเลและเป็นหมู่เกาะ อีกทั้งเมื่อนับความยาวของชายฝั่งและทะเลแล้ว ยังมีความยาวมากที่สุดแห่งหนึ่ง อีกทั้งทรัพยากรธรรมทั้งน้ำมัน แหล่งอาหาร",
-        "image_url":"https://cdn.pixabay.com/photo/2013/08/07/12/41/submarine-170463_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/navywebmaster/SubmarineAPI/main/submarine-170463_960_720.jpg",
         "detail":""
     },
     {
         "title":"เรือดำน้ำในอดีต",
         "subtitle":"เนื่องด้วยสภาพภูมิประเทศของบรรดาสมาชิกอาเซียน มีภูมิศาสตร์ติดกับทะเลและเป็นหมู่เกาะ อีกทั้งเมื่อนับความยาวของชายฝั่งและทะเลแล้ว ยังมีความยาวมากที่สุดแห่งหนึ่ง อีกทั้งทรัพยากรธรรมทั้งน้ำมัน แหล่งอาหาร",
-        "image_url":"https://cdn.pixabay.com/photo/2013/08/07/12/41/submarine-170463_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/navywebmaster/SubmarineAPI/main/submarine-170463_960_720.jpg",
         "detail":""
     }
 ]
